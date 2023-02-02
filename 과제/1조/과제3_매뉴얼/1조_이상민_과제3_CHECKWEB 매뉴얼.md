@@ -4,7 +4,7 @@
 
 
 
-![이미지](./CHECK WEB 매뉴얼_이상민_1.PNG)</br>
+![이미지](./CHECK WEB 매뉴얼_이상민_1.png)</br>
 ![이미지](./CHECK WEB 매뉴얼_이상민_2.PNG)</br>
 ![이미지](./CHECK WEB 매뉴얼_이상민_3.PNG)</br>
 ![이미지](./CHECK WEB 매뉴얼_이상민_4.PNG)</br>
